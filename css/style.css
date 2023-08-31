@@ -1,6 +1,6 @@
 /* 
-    Author: Vijay Thapa;
-    Theme: Restaurant Food Order;
+    Author: Kumkumia Habiba;
+    Theme: Nursury plant Order;
     version: 1.0;
 */
 
@@ -64,7 +64,7 @@ a:hover{
     background-color: #ff4757;
 }
 h2{
-    color: #2f3542;
+    color: #232b3b;
     font-size: 2rem;
     margin-bottom: 2%;
 }
@@ -107,17 +107,17 @@ fieldset{
 }
 
 
-/* CSS for Food SEarch Section */
+/* CSS for plant SEarch Section */
 
-.food-search{
-    background-image: url(../images/bg.jpg);
+.plant-search{
+    background-image: url(../images/bg1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     padding: 7% 0;
 }
 
-.food-search input[type="search"]{
+.plant-search input[type="search"]{
     width: 50%;
     padding: 1%;
     font-size: 1rem;
@@ -138,12 +138,12 @@ fieldset{
 }
 
 
-/* CSS for Food Menu */
-.food-menu{
+/* CSS for plant menu */
+.plant-menu{
     background-color: #ececec;
     padding: 4% 0;
 }
-.food-menu-box{
+.plant-menu-box{
     width: 43%;
     margin: 1%;
     padding: 2%;
@@ -152,22 +152,22 @@ fieldset{
     border-radius: 15px;
 }
 
-.food-menu-img{
+.plant-menu-img{
     width: 20%;
     float: left;
 }
 
-.food-menu-desc{
+.plant-menu-desc{
     width: 70%;
     float: left;
     margin-left: 8%;
 }
 
-.food-price{
+.plant-price{
     font-size: 1.2rem;
     margin: 2% 0;
 }
-.food-detail{
+.plant-detail{
     font-size: 1rem;
     color: #747d8c;
 }
@@ -215,7 +215,7 @@ fieldset{
         text-align: center;
     }
 
-    .food-search input[type="search"]{
+    .plant-search input[type="search"]{
         width: 90%;
         padding: 2%;
         margin-bottom: 3%;
@@ -226,7 +226,7 @@ fieldset{
         padding: 2%;
     }
 
-    .food-search{
+    .plant-search{
         padding: 10% 0;
     }
 
@@ -241,11 +241,11 @@ fieldset{
         margin: 4% auto;
     }
 
-    .food-menu{
+    .plant-menu{
         padding: 20% 0;
     }
 
-    .food-menu-box{
+    .plant-menu-box{
         width: 90%;
         padding: 5%;
         margin-bottom: 5%;
